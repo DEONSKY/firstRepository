@@ -24,7 +24,7 @@ int main()
 	cout << b2.a1.adı << endl;
 	cout << b2.a1.uzmanlik << endl;
 	cout << "git denemesi" << endl;
-	cout << "git eklenen" << endl;
+	cout << "git eklenen1" << endl;
 
 }
 
