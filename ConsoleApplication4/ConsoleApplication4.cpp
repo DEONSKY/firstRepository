@@ -25,6 +25,8 @@ int main()
 	cout << b2.a1.uzmanlik << endl;
 	cout << "git denemesi" << endl;
 	cout << "git eklenen1" << endl;
+	cout << "ver1" << endl;
+
 
 }
 
