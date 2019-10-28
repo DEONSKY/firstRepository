@@ -23,6 +23,8 @@ int main()
 	cout << b1.a1.kunyeno << endl;
 	cout << b2.a1.adı << endl;
 	cout << b2.a1.uzmanlik << endl;
+	cout << "git denemesi" << endl;
+	cout << "git denemesi2" << endl;
 
 }
 
