@@ -7,7 +7,7 @@ using namespace std;
 struct birlik{
 struct asker{
 	float kunyeno;
-	char adı[10];
+	char adı[9];
 	char uzmanlik[10];
 }a1,a2,a3,a4;
 }b1,b2,b3,b4;
@@ -15,7 +15,7 @@ struct asker{
 
 int main()
 {
-	b2.a1 = { 21,"joseph","sniper" };
+	b2.a1 = { 21,"joseph","snipercı" };
 	setlocale(LC_ALL, "Turkish");
 	cin >> b1.a1.kunyeno;
 	cin >> b2.a1.adı;
@@ -24,7 +24,7 @@ int main()
 	cout << b2.a1.adı << endl;
 	cout << b2.a1.uzmanlik << endl;
 	cout << "git denemesi" << endl;
-	cout << "git denemesi2" << endl;
+	cout << "git eklenen" << endl;
 
 }
 
